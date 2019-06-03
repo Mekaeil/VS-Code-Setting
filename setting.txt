@@ -1,3 +1,28 @@
+setting.json 
+
+{
+    "workbench.colorTheme"                  : "Atom One Dark",
+    "editor.fontFamily"                     : "'Fira Code','Operator mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",    
+    "editor.fontLigatures"                  : true,
+    "editor.fontWeight"                     : "400" ,// Light
+    "editor.fontSize"                       : 14,
+    "window.zoomLevel"                      : 0,
+    "workbench.iconTheme"                   : "material-icon-theme",
+    "editor.find.autoFindInSelection"       : true,
+    "files.autoGuessEncoding"               : true,
+    "files.autoSave"                        : "afterDelay",
+    "blade.format.enable"                   : true,
+    "path-intellisense.showHiddenFiles"     : true,
+    "references.preferredLocation"          : "view",
+    "path-intellisense.extensionOnImport"   : true,
+    "sync.gist"                             : "---- :D ",
+}
+
+
+
+
+==========================================================================================
+
 Version: 3.2.9
 --------------------
 GitHub Token    : --- :D
